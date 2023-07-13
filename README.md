@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://it0na72.github.io/MinimalTrack/">
-    <img src="logo.png" alt="Logo" height="100">
+    <img src="logo.png" alt="Logo" height="60">
   </a>
 <h3 align="center">MinimalTrack</h3>
 
