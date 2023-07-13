@@ -1,15 +1,15 @@
 <div align="center">
-  <a href="https://it0na72.github.io/fastfunds-website/">
-    <img src="/img/icon.png" alt="Logo" width="100" height="100">
+  <a href="https://it0na72.github.io/MinimalTrack/">
+    <img src="icon.png" alt="Logo" width="100" height="100">
   </a>
 <h3 align="center">MinimalTrack</h3>
 
   <p align="center">
-    <a href="https://it0na72.github.io/fastfunds-website/"><b>View Demo</b></a>
+    <a href="https://it0na72.github.io/MinimalTrack/"><b>View Demo</b></a>
     ·
-    <a href="https://github.com/it0na72/fastfunds-website/issue">Report Bug</a>
+    <a href="https://github.com/it0na72/MinimalTrack/issue">Report Bug</a>
     ·
-    <a href="https://github.com/it0na72/fastfunds-website/issue">Request Feature</a>
+    <a href="https://github.com/it0na72/MinimalTrack/issue">Request Feature</a>
   </p>
 </div>
 
@@ -52,7 +52,7 @@ Take control of your fitness journey with MinimalTrack and enjoy the simplicity 
 To get a local copy up and running follow these simple example steps.
 
 - Clone this repo
-  `git clone https://github.com/it0na72/fastfunds-website.git`
+  `git clone https://github.com/it0na72/MinimalTrack.git`
 
 After cloning this repo you should be able to change your details as needed.
 
@@ -62,10 +62,8 @@ After cloning this repo you should be able to change your details as needed.
 
 - [ ] Change colour pallet
 - [ ] Add night mode
-- [x] Add a button that goes to the demo website
-- [x] Fix media queries
 
-See the [open issues](https://github.com/it0na72/fastfunds-website/issue) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/it0na72/MinimalTrack-website/issue) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
