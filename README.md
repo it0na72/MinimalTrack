@@ -62,7 +62,7 @@ After cloning this repo you should be able to change your details as needed.
 
 - [ ] Change colour pallet
 - [ ] Add night mode
-- [ ] Add Geolocation API
+- [x] Add Geolocation API
 - [ ] Display map using leaflet library
 - [ ] Display map marker
 - [ ] Rendering workout input form
