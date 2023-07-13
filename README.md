@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://it0na72.github.io/MinimalTrack/">
-    <img src="icon.png" alt="Logo" width="100" height="100">
+    <img src="logo.png" alt="Logo" width="100" height="100">
   </a>
 <h3 align="center">MinimalTrack</h3>
 
@@ -62,6 +62,15 @@ After cloning this repo you should be able to change your details as needed.
 
 - [ ] Change colour pallet
 - [ ] Add night mode
+- [ ] Add Geolocation API
+- [ ] Display map using leaflet library
+- [ ] Display map marker
+- [ ] Rendering workout input form
+- [ ] Managing workout data with classes
+- [ ] Rendering workouts
+- [ ] Create new workouts
+- [ ] Move to marker on click
+- [ ] Local browser storage
 
 See the [open issues](https://github.com/it0na72/MinimalTrack-website/issue) for a full list of proposed features (and known issues).
 
