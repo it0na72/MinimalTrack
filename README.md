@@ -61,15 +61,14 @@ After cloning this repo you should be able to change your details as needed.
 ## Roadmap
 
 - [ ] Change colour pallet
-- [ ] Add night mode
 - [x] Add Geolocation API
 - [x] Display map using leaflet library
 - [x] Display map marker
 - [x] Rendering workout input form
 - [x] Managing workout data with classes
-- [ ] Rendering workouts
-- [ ] Create new workouts
-- [ ] Move to marker on click
+- [x] Rendering workouts
+- [x] Create new workouts
+- [x] Move to marker on click
 - [ ] Local browser storage
 - [ ] Make website responsive with media queries
 
