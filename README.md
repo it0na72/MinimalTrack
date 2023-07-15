@@ -60,7 +60,7 @@ After cloning this repo you should be able to change your details as needed.
 
 ## Roadmap
 
-- [ ] Change colour pallet
+- [x] Change colour pallet
 - [x] Add Geolocation API
 - [x] Display map using leaflet library
 - [x] Display map marker
@@ -69,8 +69,8 @@ After cloning this repo you should be able to change your details as needed.
 - [x] Rendering workouts
 - [x] Create new workouts
 - [x] Move to marker on click
-- [ ] Local browser storage
-- [ ] Make website responsive with media queries
+- [x] Local browser storage
+- [x] Make website responsive with media queries
 
 See the [open issues](https://github.com/it0na72/MinimalTrack-website/issue) for a full list of proposed features (and known issues).
 

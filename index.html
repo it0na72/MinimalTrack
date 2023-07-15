@@ -12,6 +12,7 @@
     />
 
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="media.css" />
 
     <link
       rel="stylesheet"
@@ -27,8 +28,17 @@
       crossorigin=""
     ></script>
 
+    <!-- sweet alert -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@5/dark.css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script>
+
+    <!-- core javascript -->
     <script defer src="script.js"></script>
-    <title>MinimalTrack - Workout Logs</title>
+
+    <title>MinimalTrack</title>
   </head>
   <body>
     <div class="sidebar">
@@ -45,13 +55,20 @@
           </div>
           <div class="form__row">
             <label class="form__label">Distance</label>
-            <input class="form__input form__input--distance" placeholder="km" />
+            <input
+              class="form__input form__input--distance"
+              placeholder="km"
+              type="text"
+              maxlength="6"
+            />
           </div>
           <div class="form__row">
             <label class="form__label">Duration</label>
             <input
               class="form__input form__input--duration"
               placeholder="min"
+              type="text"
+              maxlength="6"
             />
           </div>
           <div class="form__row">
@@ -59,6 +76,8 @@
             <input
               class="form__input form__input--cadence"
               placeholder="step/min"
+              type="text"
+              maxlength="6"
             />
           </div>
           <div class="form__row form__row--hidden">
@@ -66,10 +85,17 @@
             <input
               class="form__input form__input--elevation"
               placeholder="meters"
+              type="text"
+              maxlength="6"
             />
           </div>
           <button class="form__btn">OK</button>
         </form>
+
+        <li class="workout-caption">
+          Click on the map to save your workout details.<br />
+          By reloading the page, you won't lose them!
+        </li>
 
         <!-- <li class="workout workout--running" data-id="1234567890">
           <h2 class="workout__title">Running on April 14</h2>
