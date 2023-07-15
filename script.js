@@ -251,8 +251,8 @@ class App {
       <span class="workout__unit">km/h</span>
     </div>
     <div class="workout__details">
-      <span class="workout__icon">⛰</span>
-      <span class="workout__value">${workout.elevation}</span>
+      <span class="workout__icon">⛰️</span>
+      <span class="workout__value">${workout.elevationGain}</span>
       <span class="workout__unit">m</span>
     </div>
   </li>`;
@@ -291,6 +291,11 @@ class App {
     this.#workouts.forEach(work => {
       this._renderWorkout(work);
     });
+  }
+
+  reset() {
+    localStorage.removeItem('workouts');
+    location.reload();
   }
 }
 
