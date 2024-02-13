@@ -120,7 +120,13 @@ class App {
       navigator.geolocation.getCurrentPosition(
         this._loadMap.bind(this),
         function () {
-          alert('Could not get your position 😭');
+          return Swal.fire({
+            icon: 'error',
+            title: 'Could not get your location!😭',
+            background: '#2d3439',
+            heightAuto: false,
+            width: 'auto',
+          });
         }
       );
   }
