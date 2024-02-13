@@ -33,11 +33,11 @@
 
 ## About The Project
 
-Upload gif here
+![minimaltrack](https://github.com/it0na72/MinimalTrack/assets/56265972/b39d23ba-683d-4cb8-9b01-7fe73e3ad70b)
 
 MinimalTrack is a streamlined web application designed to simplify your running and biking tracking experience. With its minimalist interface and intuitive features, MinimalTrack empowers you to effortlessly monitor your progress, distances, and dates for both running and cycling workouts.
 
-Track your running kilometers and cycling workouts with ease, allowing you to stay motivated and reach your fitness goals. MinimalTrack eliminates the complexities and distractions commonly found in other tracking apps, focusing solely on providing a clean and user-friendly environment.
+Track your running kilometres and cycling workouts with ease, allowing you to stay motivated and reach your fitness goals. MinimalTrack eliminates the complexities and distractions commonly found in other tracking apps, focusing solely on providing a clean and user-friendly environment.
 
 Whether you're a beginner or a seasoned athlete, MinimalTrack offers a seamless experience for logging and reviewing your workouts. Stay organized with clear summaries of your running and cycling sessions, enabling you to track your progress over time.
 
